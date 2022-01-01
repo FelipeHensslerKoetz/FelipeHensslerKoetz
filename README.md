@@ -6,7 +6,7 @@
 ## 👨‍💻 About me
 
 <ul>
-    <li>I'm 22 years old.</li>
+    <li>I'm 23 years old.</li>
     <li>I speak Portuguese (fluent) and English(intermediate).</li>
     <li>I Love Rock/Metal and Videogames.</li>
     <li>Learned to code in 2016.</li>
