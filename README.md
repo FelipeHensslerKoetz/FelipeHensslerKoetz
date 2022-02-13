@@ -112,8 +112,9 @@
     <tr>
         <td>
             <div style="display: inline_block">
-                <img alt="Ruby on Rails" align="center" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-                <img alt="React Native" align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+                <img alt="Node.js" align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+                <img alt="React" align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+                
 </div>
         </td>
     </tr>
