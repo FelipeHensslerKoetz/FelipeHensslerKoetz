@@ -129,6 +129,12 @@
         <td>Link</td>
     </tr>
     <tr>
+        <td>TDD com Ruby on Rails, RSpec e Capybara</td>
+        <td><img alt="Ruby" align="center" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /></td>
+        <td>15.5 hours</td>
+        <td><a href="https://www.udemy.com/certificate/UC-edf58620-f823-401b-b486-02689cff772e/">Link</a></td>
+    </tr>
+    <tr>
         <td>API REST em Node.JS aplicando testes (TDD) desde o princípio</td>
         <td><img alt="NodeJS" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></td>
         <td>31 hours</td>
