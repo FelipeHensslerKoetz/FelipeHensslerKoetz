@@ -1,7 +1,7 @@
-[![MasterHead](https://img.freepik.com/vetores-premium/banner-colorido-com-maos-trabalhando-no-computador-diferentes-dispositivos-eletronicos-dispositivos-e-simbolos-programacao-desenvolvimento-de-software-codificacao-de-programas_198278-4192.jpg?w=1800)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/vetores-premium/banner-colorido-com-maos-trabalhando-no-computador-diferentes-dispositivos-eletronicos-dispositivos-e-simbolos-programacao-desenvolvimento-de-software-codificacao-de-programas_198278-4192.jpg?w=1800)](https://FelipeHensslerKoetz.github.io)
 <h1 align="center">Hi 👋, I'm Felipe Henssler Koetz</h1>
 <h3 align="center">A passionate back-end developer from Brasil</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcyY2QzMmM1YTZiNzZhMTJmZmVmZjVjYjhiNjNiYTdhY2Y0ZTQ5MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipehensslerkoetz&label=Profile%20views&color=0e75b6&style=flat" alt="felipehensslerkoetz" /> </p>
 
