@@ -1,10 +1,9 @@
 [![MasterHead](https://img.freepik.com/vetores-premium/banner-colorido-com-maos-trabalhando-no-computador-diferentes-dispositivos-eletronicos-dispositivos-e-simbolos-programacao-desenvolvimento-de-software-codificacao-de-programas_198278-4192.jpg?w=1800)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Felipe Henssler Koetz</h1>
 <h3 align="center">A passionate back-end developer from Brasil</h3>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcyY2QzMmM1YTZiNzZhMTJmZmVmZjVjYjhiNjNiYTdhY2Y0ZTQ5MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipehensslerkoetz&label=Profile%20views&color=0e75b6&style=flat" alt="felipehensslerkoetz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipehensslerkoetz" alt="felipehensslerkoetz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/koetzfelipe" target="blank"><img src="https://img.shields.io/twitter/follow/koetzfelipe?logo=twitter&style=for-the-badge" alt="koetzfelipe" /></a> </p>
 
@@ -38,6 +37,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipehensslerkoetz&show_icons=true&locale=en" alt="felipehensslerkoetz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipehensslerkoetz&" alt="felipehensslerkoetz" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipehensslerkoetz" alt="felipehensslerkoetz" /></a> </p>
 
 
 
