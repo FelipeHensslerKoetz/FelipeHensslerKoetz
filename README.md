@@ -1,151 +1,43 @@
-### Welcome to Felipe Koetz's profile! 👋
+[![MasterHead](https://img.freepik.com/vetores-premium/banner-colorido-com-maos-trabalhando-no-computador-diferentes-dispositivos-eletronicos-dispositivos-e-simbolos-programacao-desenvolvimento-de-software-codificacao-de-programas_198278-4192.jpg?w=1800)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Felipe Henssler Koetz</h1>
+<h3 align="center">A passionate back-end developer from Brasil</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipehensslerkoetz&label=Profile%20views&color=0e75b6&style=flat" alt="felipehensslerkoetz" /> </p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipekoetz/)[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipehenssler@gmail.com)[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/felipe_koetz)[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551995504298)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/5716)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_koetz)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipehensslerkoetz" alt="felipehensslerkoetz" /></a> </p>
 
-## 👨‍💻 About me
+<p align="left"> <a href="https://twitter.com/koetzfelipe" target="blank"><img src="https://img.shields.io/twitter/follow/koetzfelipe?logo=twitter&style=for-the-badge" alt="koetzfelipe" /></a> </p>
 
-<ul>
-    <li>I'm 24 years old.</li>
-    <li>I speak Portuguese (fluent) and English(intermediate).</li>
-    <li>I Love Rock/Metal and Videogames.</li>
-    <li>Learned to code in 2016.</li>
-    <li>Living at Rio Grande do Sul - Brazil.</li>
-    <li>Currently working remotely at Blu.</li>
-    <li>Information Systems student at <a href="https://www2.faccat.br/portal/">FACCAT</a> (Taquara, RS - Brazil).</li>
-</ul>
+- 🔭 I’m currently working on [BLU Pagamentos](https://blu.com.br/)
 
-<hr>
+- 🌱 I’m currently learning **Docker, Ruby on Rails, Django and Node.js**
 
-![Most used languages on public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeHensslerKoetz&theme=tokyonight)
-![Felipe's GitHub public stats](https://github-readme-stats.vercel.app/api?username=FelipeHensslerKoetz&show_icons=true&theme=tokyonight)
+- 👨‍💻 All of my projects are available at [FelipeHensslerKoetz.github.io](FelipeHensslerKoetz.github.io)
 
-## 🖥️ Technologies
+- 💬 Ask me about **Ruby and Ruby on Rails**
 
-<table border="1">
-    <tr>
-        <td>Language</td>
-        <td>Framework/Runtime</td>
-        <td>Skill Level</td>
-    </tr>
-    <tr>
-        <td><img alt="Ruby" align="center" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /></td>
-        <td><img alt="Ruby on Rails" align="center" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"          /></td>
-        <td>Intermediary</td>
-    </tr>
-    <tr>
-        <td><img alt="Javascript" align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
-        <td>
-            <div style="display: inline_block">
-                <img alt="NodeJS" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-                <img alt="Express" align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-            </div>
-        </td>
-        <td>Intermediary</td>
-    </tr>
-    <tr>
-        <td><img alt="PHP" align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></td>
-        <td><img alt="Laravel" align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></td>
-        <td>Apprentice</td>
-    </tr>
-     <tr>
-        <td><img alt="Java" align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></td>
-        <td></td>
-        <td>Apprentice</td>
-    </tr>
-    <tr>
-        <td><img alt="Python" align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></td>
-        <td></td>
-        <td>Apprentice</td>
-    </tr>
-</table>
+- 📫 How to reach me **felipehenssler@gmail.com**
 
-## 💾 Databases
-<table border="1">
-    <tr>
-        <td>Database</td>
-        <td>Skill Level</td>
-    </tr>
-    <tr>
-        <td><img alt="PostgreSQL" align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></td>
-        <td>Apprentice</td>
-    </tr>
-       <tr>
-        <td><img alt="MongoDB" align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
-        <td>Apprentice</td>
-    </tr>
-</table>
+- 📄 Know about my experiences [FelipeHensslerKoetz.github.io](FelipeHensslerKoetz.github.io)
 
-## ⚙️ Tools 
+- ⚡ Fun fact **I'm passionate about Crossfit, music, video games, card/board games and programming.**
 
-<table border="1">
-    <tr> 
-        <td>Tool</td>
-        <td>Skill Level</td>
-    </tr> 
-    <tr> 
-        <td><img alt="Docker" align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></td>
-        <td>Apprentice</td>
-    </tr>
-    <tr> 
-        <td><img alt="Visual Studio Code" align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></td>
-        <td>Intermediary</td>
-    </tr>
-    <tr> 
-        <td><img alt="GIT" align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
-        <td>Intermediary</td>
-    </tr> 
-     <tr> 
-        <td><img alt="Github" align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></td>
-        <td>Intermediary</td>
-    </tr> 
-    <tr> 
-        <td><img alt="VIM" align="center" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/></td>
-        <td>Apprentice</td>
-    </tr> 
-</table>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/koetzfelipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koetzfelipe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felipekoetz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipekoetz" height="30" width="40" /></a>
+<a href="https://fb.com/felipe.koetz.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felipe.koetz.9" height="30" width="40" /></a>
+<a href="https://instagram.com/felipe_koetz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe_koetz" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-## 🖥️ Technologies that i'm learning/improving at the moment
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipehensslerkoetz&show_icons=true&locale=en&layout=compact" alt="felipehensslerkoetz" /></p>
 
-<table border="1">
-    <tr>
-        <td>
-            <div style="display: inline_block">
-                <img alt="Docker" align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-                <img alt="Ruby" align="center" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-                <img alt="Ruby on Rails" align="center" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>   
-            </div>
-        </td>
-    </tr>
-</table>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipehensslerkoetz&show_icons=true&locale=en" alt="felipehensslerkoetz" /></p>
 
-## 📜 Certificates
-<table border="1">
-    <tr> 
-        <td>Name</td>
-        <td>Skill</td>
-        <td>Duration</td>
-        <td>Link</td>
-    </tr>
-    <tr>
-        <td>TDD com Ruby on Rails, RSpec e Capybara</td>
-        <td><img alt="Ruby" align="center" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /></td>
-        <td>15.5 hours</td>
-        <td><a href="https://www.udemy.com/certificate/UC-edf58620-f823-401b-b486-02689cff772e/">Link</a></td>
-    </tr>
-    <tr>
-        <td>API REST em Node.JS aplicando testes (TDD) desde o princípio</td>
-        <td><img alt="NodeJS" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></td>
-        <td>31 hours</td>
-        <td><a href="https://www.cod3r.com.br/certificates/bd0ewfwz9f">Link</a></td>
-    </tr>
-</table>
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipehensslerkoetz&" alt="felipehensslerkoetz" /></p>
 
 
 
