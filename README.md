@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Docker, Ruby on Rails, Django and Node.js**
 
-- 👨‍💻 All of my projects are available at [FelipeHensslerKoetz.github.io](FelipeHensslerKoetz.github.io)
+- 👨‍💻 All of my projects are available at [FelipeHensslerKoetz.github.io](https://FelipeHensslerKoetz.github.io)
 
 - 💬 Ask me about **Ruby and Ruby on Rails**
 
 - 📫 How to reach me **felipehenssler@gmail.com**
 
-- 📄 Know about my experiences [FelipeHensslerKoetz.github.io](FelipeHensslerKoetz.github.io)
+- 📄 Know about my experiences [FelipeHensslerKoetz.github.io](https://FelipeHensslerKoetz.github.io)
 
 - ⚡ Fun fact **I'm passionate about Crossfit, music, video games, card/board games and programming.**
 
