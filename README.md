@@ -1,5 +1,4 @@
-[![MasterHead](https://img.freepik.com/vetores-premium/banner-colorido-com-maos-trabalhando-no-computador-diferentes-dispositivos-eletronicos-dispositivos-e-simbolos-programacao-desenvolvimento-de-software-codificacao-de-programas_198278-4192.jpg?w=1800)](https://FelipeHensslerKoetz.github.io)
-<h1 align="center">Hi 👋, I'm Felipe Henssler Koetz</h1>
+![download (1)](https://user-images.githubusercontent.com/21181016/229646249-9fc8cb3c-527a-4556-aea8-f599dc1ea9d3.png)
 <h3 align="center">A passionate back-end developer from Brasil</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif">
 
