@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [BLU Pagamentos](https://blu.com.br/)
 
-- 🌱 I’m currently learning **Docker, Ruby on Rails, Django and Node.js**
+- 🌱 I’m currently learning **Python, Ruby on Rails and Docker**
 
 - 👨‍💻 All of my projects are available at [FelipeHensslerKoetz.github.io](https://FelipeHensslerKoetz.github.io)
 
