@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate Backend Engineer from Brasil</h3>
 
-<div align="center">
+<div align="left">
   
   🔭 I’m currently working on [BLU Pagamentos](https://blu.com.br/)
   
@@ -76,6 +76,20 @@
 <div align=center>
     <img src="https://github-profile-trophy.vercel.app/?username=felipehensslerkoetz&column=3&margin-w=15&margin-h=15&theme=dark_dimmed">
 </div>
+
+<hr />
+
+<h2 align="center">📜 Certificates 📜</h2>
+<div align="center">
+
+| Course | Length | Skills | Insitution| Certificate|
+|:------------------:|:------------------:|:------------------:|:-----------------:|:----------------:|
+| Row 1, Col 1      | Row 1, Col 2      | Row 1, Col 3      | a | b |
+| Row 2, Col 1      | Row 2, Col 2      | Row 2, Col 3      | c | d |
+| Row 3, Col 1      | Row 3, Col 2      | Row 3, Col 3      | e | f |
+
+</div>
+
 
 
 
