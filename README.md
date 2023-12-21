@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate Backend Engineer from Brasil</h3>
 
-<div align="left">
+<div align="center">
   
   🔭 I’m currently working on [BLU Pagamentos](https://blu.com.br/)
   
