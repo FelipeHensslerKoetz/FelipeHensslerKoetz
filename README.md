@@ -1,41 +1,73 @@
-![Header](https://user-images.githubusercontent.com/21181016/229649225-11edda5a-5d76-4ed0-8694-f30f69bc9990.png)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=felipehensslerkoetz.felipehensslerkoetz" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Felipe+Koetz!;" />
+</h1>
+
 <h3 align="center">A passionate Backend Engineer from Brasil</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipehensslerkoetz&label=Profile%20views&color=0e75b6&style=flat" alt="felipehensslerkoetz" /> </p>
+<div align="center">
+  
+  🔭 I’m currently working on [BLU Pagamentos](https://blu.com.br/)
+  
+  🌱 I’m currently learning **Python, Ruby on Rails and Docker**
+  
+  👨‍💻 All of my projects are available at [FelipeHensslerKoetz.github.io](https://FelipeHensslerKoetz.github.io)
+  
+  💬 Ask me about **Ruby and Ruby on Rails**
+  
+  📫 How to reach me **felipehenssler@gmail.com**
+  
+  📄 Know about my experiences [FelipeHensslerKoetz.github.io](https://FelipeHensslerKoetz.github.io)
+  
+  ⚡ Fun fact **I'm passionate about Crossfit, music, video games, card/board games and programming.**
+</div>
 
-<p align="left"> <a href="https://twitter.com/koetzfelipe" target="blank"><img src="https://img.shields.io/twitter/follow/koetzfelipe?logo=twitter&style=for-the-badge" alt="koetzfelipe" /></a> </p>
+<div align="center"> 
+  <a href="mailto:felipehenssler@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/felipekoetz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://FelipeHensslerKoetz.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on [BLU Pagamentos](https://blu.com.br/)
+ <hr/>
 
-- 🌱 I’m currently learning **Python, Ruby on Rails and Docker**
+ <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,java" /><br>
+</div>
+<br/>
+<hr/>
 
-- 👨‍💻 All of my projects are available at [FelipeHensslerKoetz.github.io](https://FelipeHensslerKoetz.github.io)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/felipehensslerkoetz/felipehensslerkoetz/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-- 💬 Ask me about **Ruby and Ruby on Rails**
+<hr/>
 
-- 📫 How to reach me **felipehenssler@gmail.com**
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com?user=FelipeHensslerKoetz&theme=react" alt="GitHub Streak" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=felipehensslerkoetz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeHensslerKoetz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-- 📄 Know about my experiences [FelipeHensslerKoetz.github.io](https://FelipeHensslerKoetz.github.io)
+<br/><br/>
 
-- ⚡ Fun fact **I'm passionate about Crossfit, music, video games, card/board games and programming.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/koetzfelipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koetzfelipe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/felipekoetz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipekoetz" height="30" width="40" /></a>
-<a href="https://fb.com/felipe.koetz.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felipe.koetz.9" height="30" width="40" /></a>
-<a href="https://instagram.com/felipe_koetz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe_koetz" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipehensslerkoetz&show_icons=true&locale=en&layout=compact" alt="felipehensslerkoetz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipehensslerkoetz&show_icons=true&locale=en" alt="felipehensslerkoetz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipehensslerkoetz&" alt="felipehensslerkoetz" /></p>
+<hr/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipehensslerkoetz" alt="felipehensslerkoetz" /></a> </p>
 
