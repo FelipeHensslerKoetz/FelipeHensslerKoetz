@@ -69,7 +69,14 @@
 
 <hr/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipehensslerkoetz" alt="felipehensslerkoetz" /></a> </p>
+<h2 align="center">⚡ Trophies ⚡</h2>
+<br>
+
+<div align=center>
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15&theme=dark_dimmed">
+</div>
+
+
 
 
 
